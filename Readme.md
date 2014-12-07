@@ -1,4 +1,4 @@
-# Koding Global Virtual Hackathon's Submission Example
+# Koding Global Virtual Hackathon's Submission
 
 This is a sample submission repository for the hackathon. If you don't know what that is, please [go here](https://koding.com/Hackathon). You can fork this repo and use this as a starting point. You *do not* have
 send a pull request for this repo. This is just a sample of what your repo can look like when you submit it
