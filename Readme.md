@@ -1,6 +1,6 @@
 ## Koding Global Virtual Hackathon's Submission
 
-We are very proud that [PALPHP](). You can fork this repo and use this as a starting point. You *do not* have
+We are very proud that [PALPHP](https://github.com/palphp). You can fork this repo and use this as a starting point. You *do not* have
 send a pull request for this repo. This is just a sample of what your repo can look like when you submit it
 to us as part of the final process for the hackathon.
 
